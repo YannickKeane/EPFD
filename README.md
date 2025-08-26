@@ -2,6 +2,8 @@
 This is Electric Power Fitting Dataset(IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS)
 ## Download
 https://pan.ncepu.edu.cn/link/AA82D12AC6CBA04689843C01CC03824A9B
+or https://pan.baidu.com/s/1WFO6YfXL2jUcmNq6UD1KBQ 
+
 For the password, please email yangke@ncepu.edu.cn and specify the author, organization, and intended use.
 ## Please note
 If you discover any annotation errors, feel free to contact us for corrections.
